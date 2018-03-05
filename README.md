@@ -34,8 +34,6 @@ Useful references:
 
 ### Step 5: Play the game!
 
-Play the game here: http://learntocodela.github.io/Battleship-JavaScript/
-
 Features to implement next:
 - Display game messages within the HTML page instead of using [alert()](https://developer.mozilla.org/en-US/docs/Web/API/Window/alert)
 - Randomize placement of the ships at the start of each game
